@@ -9,7 +9,6 @@ development:
 
 test:
   <<: *default
-  url: <%= ENV["DATABASE_URL_TEST"] || "postgres://postgres:postgres@db:5432/rails_api_demo_test" %>
 
 production:
   <<: *default

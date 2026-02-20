@@ -1,0 +1,982 @@
+{
+  "rails-api-demo": {
+    "docker-compose.yml.git": [
+      {
+        "date": "2026-02-20T17:08:20.867Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-02-20T17:08:22.293Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-02-20T17:08:33.048Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-02-20T17:08:36.398Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-02-20T17:08:41.952Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-02-20T17:08:44.682Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-02-20T17:08:49.316Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-02-20T17:08:55.062Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-02-20T17:09:32.932Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 38
+      },
+      {
+        "date": "2026-02-20T17:09:40.473Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 8
+      },
+      {
+        "date": "2026-02-20T17:09:53.881Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-02-20T17:10:55.388Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2026-02-20T17:11:25.297Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 30
+      },
+      {
+        "date": "2026-02-20T17:12:12.720Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 47
+      },
+      {
+        "date": "2026-02-20T17:13:02.638Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2026-02-20T17:14:01.187Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 59
+      },
+      {
+        "date": "2026-02-20T17:14:26.069Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2026-02-20T17:14:29.379Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-02-20T17:14:31.508Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-02-20T17:15:37.396Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 66
+      }
+    ],
+    "config/database.yml.git": [
+      {
+        "date": "2026-02-20T17:15:43.365Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-02-20T17:15:56.805Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 13
+      },
+      {
+        "date": "2026-02-20T17:16:00.804Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-02-20T17:16:38.162Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 37
+      },
+      {
+        "date": "2026-02-20T17:16:42.935Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-02-20T17:16:56.712Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-02-20T17:17:52.182Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 55
+      },
+      {
+        "date": "2026-02-20T17:18:57.463Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 65
+      },
+      {
+        "date": "2026-02-20T17:19:32.015Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 35
+      },
+      {
+        "date": "2026-02-20T17:19:46.029Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-02-20T17:24:29.568Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 284
+      },
+      {
+        "date": "2026-02-20T17:25:25.168Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 56
+      },
+      {
+        "date": "2026-02-20T17:26:00.797Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 36
+      },
+      {
+        "date": "2026-02-20T17:26:53.188Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 52
+      }
+    ],
+    "Dockerfile.git": [
+      {
+        "date": "2026-02-20T17:27:27.850Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-02-20T17:28:16.686Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 49
+      },
+      {
+        "date": "2026-02-20T17:28:22.533Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-02-20T17:28:48.107Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2026-02-20T17:28:53.648Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-02-20T17:28:59.454Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 6
+      },
+      {
+        "date": "2026-02-20T17:29:56.642Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 57
+      },
+      {
+        "date": "2026-02-20T17:30:15.806Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2026-02-20T17:30:26.815Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-02-20T17:30:36.737Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-02-20T17:30:41.709Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-02-20T17:31:24.207Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 43
+      },
+      {
+        "date": "2026-02-20T17:38:33.380Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 429
+      },
+      {
+        "date": "2026-02-20T17:39:35.202Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 62
+      },
+      {
+        "date": "2026-02-20T17:39:51.202Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-02-20T17:41:01.114Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 70
+      },
+      {
+        "date": "2026-02-20T17:43:22.426Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 141
+      },
+      {
+        "date": "2026-02-20T17:43:25.067Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-02-20T17:44:06.419Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 41
+      },
+      {
+        "date": "2026-02-20T17:44:11.634Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      }
+    ],
+    "db/migrate/20260220174320_create_posts.rb.git": [
+      {
+        "date": "2026-02-20T17:44:41.461Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-02-20T17:45:25.058Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2026-02-20T17:46:34.980Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 70
+      },
+      {
+        "date": "2026-02-20T17:47:00.082Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 25
+      },
+      {
+        "date": "2026-02-20T17:47:49.657Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 50
+      },
+      {
+        "date": "2026-02-20T17:48:07.894Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 18
+      }
+    ],
+    "app/controllers/api/v1/posts_controller.rb.git": [
+      {
+        "date": "2026-02-20T17:48:28.228Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2026-02-20T17:48:45.222Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 17
+      },
+      {
+        "date": "2026-02-20T17:48:48.099Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-02-20T17:48:50.167Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-02-20T17:49:02.019Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-02-20T17:55:45.750Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-02-20T17:55:48.269Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-02-20T17:56:40.181Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 52
+      },
+      {
+        "date": "2026-02-20T17:58:08.242Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 88
+      },
+      {
+        "date": "2026-02-20T17:58:24.469Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-02-20T17:58:28.078Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 4
+      },
+      {
+        "date": "2026-02-20T17:58:47.074Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2026-02-20T17:58:48.126Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-02-20T17:59:55.580Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 67
+      },
+      {
+        "date": "2026-02-20T18:07:11.550Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 0
+      }
+    ],
+    "config/routes.rb.git": [
+      {
+        "date": "2026-02-20T17:49:18.669Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-02-20T17:51:58.737Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 160
+      },
+      {
+        "date": "2026-02-20T17:52:18.299Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2026-02-20T17:52:19.348Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-02-20T17:53:06.664Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 47
+      }
+    ],
+    "Gemfile.git": [
+      {
+        "date": "2026-02-20T18:03:15.143Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-02-20T18:03:30.231Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 15
+      }
+    ],
+    "spec/rails_helper.rb.git": [
+      {
+        "date": "2026-02-20T18:03:48.271Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-02-20T18:04:20.908Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 33
+      },
+      {
+        "date": "2026-02-20T18:04:42.375Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 21
+      },
+      {
+        "date": "2026-02-20T18:04:52.294Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2026-02-20T18:04:59.614Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 7
+      }
+    ],
+    "spec/requests/posts_spec.rb.git": [
+      {
+        "date": "2026-02-20T18:05:06.899Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-02-20T18:05:21.469Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 15
+      },
+      {
+        "date": "2026-02-20T18:06:26.444Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 65
+      },
+      {
+        "date": "2026-02-20T18:06:40.269Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-02-20T18:08:24.861Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-02-20T18:08:36.878Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 12
+      },
+      {
+        "date": "2026-02-20T18:08:41.840Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-02-20T18:09:10.804Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 29
+      },
+      {
+        "date": "2026-02-20T18:09:45.839Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 35
+      }
+    ],
+    "app/controllers/application_controller.rb.git": [
+      {
+        "date": "2026-02-20T18:07:16.858Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 1
+      },
+      {
+        "date": "2026-02-20T18:07:32.393Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-02-20T18:07:34.926Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-02-20T18:08:20.172Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 45
+      }
+    ],
+    "config/environment.rb.git": [
+      {
+        "date": "2026-02-20T18:10:04.703Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 0
+      },
+      {
+        "date": "2026-02-20T18:10:25.158Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 20
+      },
+      {
+        "date": "2026-02-20T18:10:35.879Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 11
+      }
+    ],
+    "config/environments/test.rb.git": [
+      {
+        "date": "2026-02-20T18:11:41.262Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 14
+      },
+      {
+        "date": "2026-02-20T18:11:57.603Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 16
+      },
+      {
+        "date": "2026-02-20T18:11:59.789Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2026-02-20T18:12:11.169Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 11
+      },
+      {
+        "date": "2026-02-20T18:12:16.636Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-02-20T18:12:22.123Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 5
+      },
+      {
+        "date": "2026-02-20T18:12:49.361Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 27
+      },
+      {
+        "date": "2026-02-20T18:12:52.010Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 3
+      },
+      {
+        "date": "2026-02-20T18:13:18.082Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 26
+      },
+      {
+        "date": "2026-02-20T18:13:45.959Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 28
+      },
+      {
+        "date": "2026-02-20T18:14:34.487Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 49
+      },
+      {
+        "date": "2026-02-20T18:14:53.522Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 19
+      },
+      {
+        "date": "2026-02-20T18:14:59.146Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 6
+      }
+    ],
+    ".github/workflows/ci.yml.git": [
+      {
+        "date": "2026-02-20T18:15:17.552Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 7
+      },
+      {
+        "date": "2026-02-20T18:16:01.238Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 44
+      },
+      {
+        "date": "2026-02-20T18:17:05.712Z",
+        "user": {
+          "name": "Francisco Pacheco",
+          "email": "fapachecojr@gmail.com"
+        },
+        "timeSpent": 64
+      }
+    ]
+  }
+}
